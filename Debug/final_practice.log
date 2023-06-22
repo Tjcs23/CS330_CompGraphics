@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Dev\final_practice\Source.cpp(446,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(569,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(570,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(574,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(575,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(577,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\final_practice\Source.cpp(578,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  final_practice.vcxproj -> C:\Dev\final_practice\Debug\final_practice.exe
